@@ -40,6 +40,6 @@ Six maching learning models were evaluated for their ability to predict credit r
 
 ## Summary 
 
-The F1 score for model 1, the native random oversample, offers a good mix of precision and sensitivity. Otherwise, the classifier models, particulary the Easy Ensemble with Adaptive Boost, both provide superior F1 scores to the over and undersampling models. 
+The F1 score for model 1, the native random oversample, offers a good mix of precision and sensitivity. Otherwise, the classifier models, particularly the Easy Ensemble with Adaptive Boost, each provide superior F1 scores to the over and undersampling models. 
 
-A recommendation on which model to use -- My recommendation from this assessment would be to utilize either the Balanced Random Forest Classifier or, even better, the Easy Ensemble Adaptive Boost Classifier as they both provide strong measures of precision and recall.
+A recommendation on which model to use -- My recommendation based on the results of this assessment is to utilize either the Balanced Random Forest Classifier or, even better, the Easy Ensemble Adaptive Boost Classifier because they both provide strong measures of precision and recall. They both provide solid predictive power with respect to credit risk.
