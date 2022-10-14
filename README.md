@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-The purpose of the analysis (4)
+The purpose of the analysis is to predict credit risk and/or credit worthiness using a dataset taken from LendingClub. 
 
 
 ## Results
